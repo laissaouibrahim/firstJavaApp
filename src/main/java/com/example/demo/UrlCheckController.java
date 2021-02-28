@@ -1,4 +1,4 @@
-package com.example.demo.controllers;
+package com.example.demo;
 
 import java.io.IOException;
 import java.net.HttpURLConnection;
